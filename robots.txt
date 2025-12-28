@@ -1,0 +1,179 @@
+# Robots.txt для Antisocial Issues
+# Все страницы доступны для индексации
+User-agent: *
+Allow: /
+
+# Карта сайта
+Sitemap: https://antisocialthems.github.io/sitemap.xml
+
+# Разрешаем индексацию всех языковых версий
+Allow: /en/
+Allow: /zh/
+Allow: /kr/
+Allow: /ja/
+Allow: /ar/
+Allow: /fa/
+Allow: /ur/
+Allow: /es/
+Allow: /pt/
+Allow: /fr/
+Allow: /it/
+Allow: /de/
+Allow: /nl/
+Allow: /pl/
+Allow: /hi/
+
+# Разрешаем индексацию статических файлов
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.svg$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+
+# Разрешаем индексацию страниц условий использования и политики конфиденциальности
+Allow: /terms-*.html
+Allow: /privacy-*.html
+
+# Разрешаем доступ к основному индексу и файлам в корне
+Allow: /index.html
+Allow: /index.php
+Allow: /index.htm
+
+
+# Указываем на главное зеркало (без www)
+Host: antisocialthems.github.io
+
+# Указываем задержку между запросами (опционально)
+Crawl-delay: 1
+
+# Бот Google News (если применимо)
+User-agent: Googlebot-News
+Allow: /
+
+# Бот Google Image
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /*.svg$
+
+# Бот Bing
+User-agent: bingbot
+Allow: /
+Crawl-delay: 1
+
+# Бот Yandex
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 1
+
+# Бот Yandex Images
+User-agent: YandexImages
+Allow: /
+Disallow: /*.svg$
+
+# Бот Baidu
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+# Бот DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Бот Apple
+User-agent: Applebot
+Allow: /
+
+# Бот Facebook
+User-agent: facebookexternalhit
+Allow: /
+Crawl-delay: 1
+
+# Бот Twitter
+User-agent: Twitterbot
+Allow: /
+
+# Бот LinkedIn
+User-agent: LinkedInBot
+Allow: /
+
+# Бот Pinterest
+User-agent: Pinterestbot
+Allow: /
+Crawl-delay: 1
+
+# Бот WhatsApp
+User-agent: WhatsApp
+Allow: /
+
+# Бот Telegram
+User-agent: TelegramBot
+Allow: /
+
+# Бот Slack
+User-agent: Slackbot
+Allow: /
+
+# Запрещаем доступ для ботов, которые могут нагружать сервер
+User-agent: MJ12bot
+Crawl-delay: 5
+
+User-agent: AhrefsBot
+Crawl-delay: 5
+
+User-agent: SEMrushBot
+Crawl-delay: 5
+
+User-agent: DotBot
+Crawl-delay: 5
+
+User-agent: MegaIndex.ru
+Crawl-delay: 5
+
+User-agent: ZoominfoBot
+Crawl-delay: 10
+
+User-agent: CCBot
+Crawl-delay: 10
+
+# Боты-сканеры уязвимостей
+User-agent: Nessus
+Disallow: /
+
+User-agent: Nmap
+Disallow: /
+
+User-agent: sqlmap
+Disallow: /
+
+User-agent: w3af
+Disallow: /
+
+User-agent: nikto
+Disallow: /
+
+# Устаревшие и вредоносные боты
+User-agent: meanpathbot
+Disallow: /
+
+User-agent: Exabot
+Crawl-delay: 10
+
+User-agent: spbot
+Disallow: /
+
+User-agent: YandexMetrika
+Allow: /
+
+# Настройки для Yandex.Webmaster
+# Яндекс.Метрика и Яндекс.Вебмастер должны иметь доступ
+User-agent: Yandex
+Allow: /
+Clean-param: ref&utm_source&utm_medium&utm_campaign&utm_term&utm_content /index.html
+
+# Указываем кодировку файла
+# charset: UTF-8
+
+# Указываем, что сайт доступен по HTTPS
+# Предполагается, что GitHub Pages автоматически использует HTTPS

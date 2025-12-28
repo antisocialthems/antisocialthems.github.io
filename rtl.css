@@ -1,0 +1,137 @@
+/* rtl.css - Стили для RTL языков (арабский, персидский, урду) */
+
+/* Основные RTL настройки */
+[dir="rtl"] body {
+    text-align: right;
+    direction: rtl;
+}
+
+[dir="rtl"] .header-content,
+[dir="rtl"] .nav,
+[dir="rtl"] .nav-list,
+[dir="rtl"] .topic-content,
+[dir="rtl"] .hero-stats,
+[dir="rtl"] .footer-content,
+[dir="rtl"] .social-sharing {
+    flex-direction: row-reverse;
+}
+
+[dir="rtl"] .nav-list li {
+    margin-left: 0;
+    margin-right: 1.5rem;
+}
+
+[dir="rtl"] .nav-list li:first-child {
+    margin-right: 0;
+}
+
+[dir="rtl"] .language-switcher {
+    margin-right: 0;
+    margin-left: 2rem;
+}
+
+[dir="rtl"] .language-dropdown {
+    right: auto;
+    left: 0;
+}
+
+[dir="rtl"] .topic-content {
+    grid-template-columns: 1fr 1fr;
+}
+
+[dir="rtl"] .topic-content .topic-text {
+    order: 2;
+}
+
+[dir="rtl"] .topic-content .topic-image {
+    order: 1;
+}
+
+[dir="rtl"] .topic-section.alt .topic-content .topic-text {
+    order: 1;
+}
+
+[dir="rtl"] .topic-section.alt .topic-content .topic-image {
+    order: 2;
+}
+
+[dir="rtl"] .topic-text ul,
+[dir="rtl"] .resources ul {
+    padding-left: 0;
+    padding-right: 1.5rem;
+}
+
+[dir="rtl"] .resources {
+    border-left: none;
+    border-right: 4px solid #3498db;
+}
+
+[dir="rtl"] .resources.emergency {
+    border-left: none;
+    border-right: 4px solid #e74c3c;
+}
+
+[dir="rtl"] .nav-link::after {
+    left: auto;
+    right: 0;
+}
+
+[dir="rtl"] .burger-menu {
+    order: -1;
+}
+
+[dir="rtl"] .mobile-menu {
+    right: auto;
+    left: -100%;
+}
+
+[dir="rtl"] .mobile-menu.active {
+    left: 0;
+}
+
+[dir="rtl"] .close-menu {
+    right: auto;
+    left: 1rem;
+}
+
+[dir="rtl"] .footer-links li {
+    text-align: right;
+}
+
+[dir="rtl"] .footer-section {
+    text-align: right;
+}
+
+[dir="rtl"] .footer-bottom {
+    text-align: center;
+}
+
+/* Мобильная адаптация для RTL */
+@media (max-width: 768px) {
+    [dir="rtl"] .header-content {
+        flex-direction: column;
+        align-items: flex-end;
+    }
+    
+    [dir="rtl"] .nav {
+        justify-content: space-between;
+        flex-direction: row-reverse;
+    }
+    
+    [dir="rtl"] .language-switcher {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 992px) {
+    [dir="rtl"] .topic-content {
+        grid-template-columns: 1fr;
+    }
+    
+    [dir="rtl"] .topic-content .topic-text,
+    [dir="rtl"] .topic-content .topic-image,
+    [dir="rtl"] .topic-section.alt .topic-content .topic-text,
+    [dir="rtl"] .topic-section.alt .topic-content .topic-image {
+        order: unset;
+    }
+}

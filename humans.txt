@@ -1,0 +1,16 @@
+/* TEAM */
+Lead Developer: Antisocial Issues Team
+Site: https://antisocialthems.github.io
+Contact: [скрыто в целях конфиденциальности]
+Location: Global
+
+/* THANKS */
+Languages: HTML5, CSS3, JavaScript
+Frameworks: None (Pure HTML/CSS/JS)
+Hosting: GitHub Pages
+Analytics: Yandex.Metrika
+
+/* SITE */
+Last update: 2023
+Standards: HTML5, CSS3, WAI-ARIA
+Components: Responsive Design, Multi-language Support, Accessibility Features

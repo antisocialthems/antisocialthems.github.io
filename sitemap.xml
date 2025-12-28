@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Основная русская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://antisocialthems.github.io/en/" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://antisocialthems.github.io/zh/" />
+        <xhtml:link rel="alternate" hreflang="ko" href="https://antisocialthems.github.io/kr/" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://antisocialthems.github.io/ja/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://antisocialthems.github.io/ar/" />
+        <xhtml:link rel="alternate" hreflang="fa" href="https://antisocialthems.github.io/fa/" />
+        <xhtml:link rel="alternate" hreflang="ur" href="https://antisocialthems.github.io/ur/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://antisocialthems.github.io/es/" />
+        <xhtml:link rel="alternate" hreflang="pt" href="https://antisocialthems.github.io/pt/" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://antisocialthems.github.io/fr/" />
+        <xhtml:link rel="alternate" hreflang="it" href="https://antisocialthems.github.io/it/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://antisocialthems.github.io/de/" />
+        <xhtml:link rel="alternate" hreflang="nl" href="https://antisocialthems.github.io/nl/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://antisocialthems.github.io/pl/" />
+        <xhtml:link rel="alternate" hreflang="hi" href="https://antisocialthems.github.io/hi/" />
+    </url>
+    
+    <!-- Английская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/en/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://antisocialthems.github.io/en/" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://antisocialthems.github.io/zh/" />
+        <xhtml:link rel="alternate" hreflang="ko" href="https://antisocialthems.github.io/kr/" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://antisocialthems.github.io/ja/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://antisocialthems.github.io/ar/" />
+        <xhtml:link rel="alternate" hreflang="fa" href="https://antisocialthems.github.io/fa/" />
+        <xhtml:link rel="alternate" hreflang="ur" href="https://antisocialthems.github.io/ur/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://antisocialthems.github.io/es/" />
+        <xhtml:link rel="alternate" hreflang="pt" href="https://antisocialthems.github.io/pt/" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://antisocialthems.github.io/fr/" />
+        <xhtml:link rel="alternate" hreflang="it" href="https://antisocialthems.github.io/it/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://antisocialthems.github.io/de/" />
+        <xhtml:link rel="alternate" hreflang="nl" href="https://antisocialthems.github.io/nl/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://antisocialthems.github.io/pl/" />
+        <xhtml:link rel="alternate" hreflang="hi" href="https://antisocialthems.github.io/hi/" />
+    </url>
+    
+    <!-- Китайская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/zh/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://antisocialthems.github.io/zh/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Корейская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/kr/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://antisocialthems.github.io/kr/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Японская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/ja/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://antisocialthems.github.io/ja/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Арабская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/ar/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://antisocialthems.github.io/ar/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Персидская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/fa/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="fa" href="https://antisocialthems.github.io/fa/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Урду версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/ur/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ur" href="https://antisocialthems.github.io/ur/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Испанская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/es/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="es" href="https://antisocialthems.github.io/es/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Португальская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/pt/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://antisocialthems.github.io/pt/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Французская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/fr/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://antisocialthems.github.io/fr/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Итальянская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/it/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="it" href="https://antisocialthems.github.io/it/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Немецкая версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/de/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="de" href="https://antisocialthems.github.io/de/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Голландская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/nl/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://antisocialthems.github.io/nl/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Польская версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/pl/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://antisocialthems.github.io/pl/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Хинди версия -->
+    <url>
+        <loc>https://antisocialthems.github.io/hi/</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="hi" href="https://antisocialthems.github.io/hi/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://antisocialthems.github.io/" />
+    </url>
+    
+    <!-- Страницы условий использования -->
+    <url>
+        <loc>https://antisocialthems.github.io/terms-ru.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-en.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-zh.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-kr.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-ja.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-ar.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-fa.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-ur.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-es.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-pt.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-fr.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-it.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-de.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-nl.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-pl.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/terms-hi.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- Страницы политики конфиденциальности -->
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-ru.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-en.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-zh.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-kr.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-ja.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-ar.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-fa.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-ur.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-es.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-pt.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-fr.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-it.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-de.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-nl.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-pl.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/privacy-hi.html</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- Статические файлы CSS и JS -->
+    <url>
+        <loc>https://antisocialthems.github.io/style.css</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/rtl.css</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://antisocialthems.github.io/script.js</loc>
+        <lastmod>2023-12-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+</urlset>
